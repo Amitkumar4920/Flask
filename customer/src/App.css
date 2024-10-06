@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa; /* Light background for the whole app */
+}
+
+h2 {
+    color: #343a40; /* Dark text color */
+    margin-bottom: 20px;
+}
+
+.table {
+    background-color: #fff; /* White background for the table */
+}
+
+.btn {
+    margin: 0 5px; /* Spacing between buttons */
+}
+
+.btn-info {
+    background-color: #17a2b8; /* Info button color */
+    border-color: #17a2b8; /* Info button border color */
+}
+
+.btn-danger {
+    background-color: #dc3545; /* Danger button color */
+    border-color: #dc3545; /* Danger button border color */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Primary button color */
+    border-color: #007bff; /* Primary button border color */
+}
